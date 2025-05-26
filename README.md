@@ -24,7 +24,8 @@ This is an **English learning platform** designed to help users improve their **
 ### 🌍 **Home Page**  
 ![🏠 Home Page](./src/images/home.png)  
 👤 **User Login:** `iqbolshoh`  
-👤 **Guest Login:** `user`  
+👤 **Guest Login:** `user` 
+🔐 **Password:** `IQBOLSHOH` 
 
 📌 The **home page** welcomes users and provides navigation to all sections.  
 
